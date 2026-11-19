@@ -143,5 +143,7 @@ A free, cross-platform **Quran reader & recitation player**. Dozens of reciters,
 
 Sponsoring helps me keep **Fast Compose**, **Micro REPL** and **Nemo** free and open source.
 
-<a href="https://github.com/sponsors/Ma7moud3ly"><img src="https://img.shields.io/badge/Sponsor_me_on_GitHub-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ma7moud3ly on GitHub" height="40"></a>
+<a href="https://github.com/sponsors/Ma7moud3ly"><img src="https://img.shields.io/badge/Sponsor_me_on_GitHub-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ma7moud3ly on GitHub" height="25"></a>
+<a href="https://ko-fi.com/ma7moud3ly"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=kofi&logoColor=white" alt="Sponsor Ma7moud3ly on ko-fi" height="25"></a>
+
 </div>
